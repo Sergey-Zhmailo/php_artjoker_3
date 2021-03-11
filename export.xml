@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title>Export XML</title>
+<products>
+  <product>
+    <id>1</id>
+    <name>Product 1</name>
+    <price>5.4</price>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Product 2</name>
+    <price>3</price>
+  </product>
+  <product>
+    <id>3</id>
+    <name>Product 3</name>
+    <price>6.2</price>
+  </product>
+  <product>
+    <id>4</id>
+    <name>Product 4</name>
+    <price>1.2</price>
+  </product>
+</products>
